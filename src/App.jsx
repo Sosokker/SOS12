@@ -13,6 +13,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link';
+import Checkbox from '@mui/material/Checkbox';
 import {createTheme, ThemeProvider} from '@mui/material/styles';
 import cards from './Card';
 
@@ -44,6 +45,11 @@ export default function App() {
                     <Typography variant="h6" color="inherit" noWrap>
                         Album layout
                     </Typography>
+
+                    <Typography variant="h6" color="inherit" noWrap>
+                        <a href="https://www.youtube.com" target="_self">Another Nav </a>
+                    </Typography>
+
                 </Toolbar>
             </AppBar>
             <main>
@@ -135,6 +141,7 @@ export default function App() {
                                     <CardActions>
                                         <Button size="small" sx={{color: "#69ACCD"}}><a href={card.link}>View</a></Button>
                                     </CardActions>
+                                    <Checkbox defaultChecked />
                                 </Card>
                             </Grid>
                         ))}
