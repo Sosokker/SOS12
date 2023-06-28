@@ -14,6 +14,7 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link';
 import {createTheme, ThemeProvider} from '@mui/material/styles';
+import cards from './Card';
 
 function Copyright() {
     return (
@@ -27,8 +28,6 @@ function Copyright() {
         </Typography>
     );
 }
-
-const cards = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
 const defaultTheme = createTheme();
 
@@ -107,7 +106,7 @@ export default function App() {
 
                         {/*# TODO:Edit the Jode here */}
                         {cards.map((card) => (
-                            <Grid item key={card} xs={12} sm={6} md={4}>
+                            <Grid item xs={12} sm={6} md={4}>
                                 <Card
                                     sx={{
                                         height: '100%',
@@ -127,17 +126,14 @@ export default function App() {
                                     <CardContent sx={{flexGrow: 1}}>
                                         <Typography gutterBottom variant="h5" component="h2"
                                                     color="#7DD6F6">
-                                            Jode1
+                                            {card.title}
                                         </Typography>
                                         <Typography color="aliceblue">
-                                            This is a media card. You can use this section to
-                                            describe the
-                                            content.
+                                            {card.describe}
                                         </Typography>
                                     </CardContent>
                                     <CardActions>
-                                        <Button size="small" sx={{color: "#69ACCD"}}>View</Button>
-                                        <Button size="small">Edit</Button>
+                                        <Button size="small" sx={{color: "#69ACCD"}}><a href={card.link}>View</a></Button>
                                     </CardActions>
                                 </Card>
                             </Grid>
