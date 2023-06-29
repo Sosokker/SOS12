@@ -21,7 +21,6 @@ import {createTheme, ThemeProvider} from '@mui/material/styles';
 import cards from './Card';
 import {createContext, useState} from "react";
 
-
 export const ThemeContext = createContext(null);
 
 // switch theme button ---------------------------------------------------------------
