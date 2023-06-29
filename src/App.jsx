@@ -19,6 +19,7 @@ import {styled} from '@mui/material/styles';
 import FormControlLabel from '@mui/material/FormControlLabel';
 import {createTheme, ThemeProvider} from '@mui/material/styles';
 import cards from './Card';
+import Contact from "./Contact";
 import {createContext, useState} from "react";
 
 export const ThemeContext = createContext(null);
@@ -206,6 +207,7 @@ export default function App() {
 
                             </Grid>
                         </Container>
+                        <Contact />
                     </main>
                     {/* Footer */}
                     <Box sx={{p: 6}} component="footer">

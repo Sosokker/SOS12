@@ -31,7 +31,7 @@ function Contact(){
                           noValidate="novalidate" ref={form} onSubmit={sendEmail}>
                             <div className="col-md-12">
                                 <div className="form-group">
-                                    <h4 className="mail">Message</h4>
+                                    <h4 className="mail">Send PP any message</h4>
                                     <textarea name="message" className="form-control" id="message" cols="30" rows="8"
                                               placeholder="Message"></textarea>
                                 </div>
