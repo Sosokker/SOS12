@@ -1,8 +1,236 @@
-/** {*/
-/*    background: red;*/
-/*}*/
 
 /*body {*/
-/*    background: white;*/
+/*    background: black;*/
 /*    color: white;*/
+/*}*/
+
+/*#light {*/
+/*    background: white;*/
+/*    color: black;*/
+/*}*/
+
+.MuiPaper-root.MuiAppBar-root {
+    background: #161E29;
+}
+
+/* Album layout */
+.MuiPaper-root.MuiAppBar-root h6 {
+    color: aliceblue;
+}
+
+/* link nav */
+h6.MuiTypography-root.anotherNav {
+    margin-left: auto;
+    color: #7DD6F6;
+    padding-right: 1rem;
+}
+
+h6.MuiTypography-root a {
+    color: #7DD6F6;
+    text-decoration: none;
+}
+
+h6.MuiTypography-root a:hover {
+    color: deepskyblue;
+    text-decoration: none;
+}
+
+/* header */
+.MuiBox-root {
+    background: #0A0E1A;
+}
+
+.MuiBox-root h1 {
+    color: #7DD6F6;
+}
+
+.MuiBox-root h5 {
+    color: aliceblue;
+}
+
+/* header button */
+#dark .headButton {
+    background: #5585A4;
+}
+
+#dark .headButton {
+    background: red;
+    color: #102b5a;
+}
+
+#dark .headButton:hover {
+    background: red;
+}
+
+/* card container bg */
+.MuiContainer-root {
+    background: #0A0E1A;
+}
+
+/* card box bg */
+.MuiPaper-root.MuiCard-root {
+    background: #2B3E52;
+}
+
+/* footer */
+
+footer.MuiBox-root {
+    background-color: #161E29;
+}
+h6.MuiTypography-root {
+    color: #7DD6F6;
+}
+
+p.MuiTypography-root {
+    color: aliceblue;
+}
+
+/* jode color */
+h2.MuiTypography-root {
+    color: #7DD6F6;
+}
+
+/* jode link */
+.MuiButton-root a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.MuiButton-root a:hover {
+    color: #7DD6F6;
+    text-decoration: none;
+}
+
+/* checkbox */
+.MuiButtonBase-root.MuiCheckbox-root {
+    background-color: #2B3E52;
+    border-radius: 0;
+}
+
+.MuiButtonBase-root.MuiCheckbox-root :hover{
+    background-color: #2B3E52;
+    border-radius: 0;
+}
+
+.MuiSvgIcon-root {
+    color: #7DD6F6;
+    display: flex;
+}
+
+
+/* -------------------------------------------------------*/
+/* light theme */
+
+#light .MuiPaper-root.MuiAppBar-root {
+    background: #a4c6eb;
+}
+
+/* Album layout */
+#light .MuiPaper-root.MuiAppBar-root h6 {
+    color: #102b5a;
+}
+
+/* link nav */
+#light h6.MuiTypography-root.anotherNav {
+    margin-left: auto;
+    padding-right: 1rem;
+}
+
+#light h6.MuiTypography-root a {
+    color: #102b5a;
+    text-decoration: none;
+}
+
+#light h6.MuiTypography-root a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+/* header */
+#light .MuiBox-root {
+    background: #ecf4fe;
+}
+
+/* sos12 */
+#light .MuiBox-root h1 {
+    color: #102b5a;
+}
+
+/* header paragraph */
+#light .MuiBox-root h5 {
+    color: #015c92
+}
+
+/* header button */
+#light .headButton {
+    background: #A1CFFF;
+    color: #102b5a;
+}
+
+
+#light .headButton :hover {
+    background: #89BFFB;
+}
+
+/* card container bg */
+#light .MuiContainer-root {
+    background: #ecf4fe;
+}
+
+/* card box bg */
+#light .MuiPaper-root.MuiCard-root {
+    background: white;
+}
+
+/* footer */
+#light footer.MuiBox-root {
+    background-color: #a4c6eb;
+}
+
+#light h6.MuiTypography-root {
+    color: #102b5a;
+}
+
+#light p.MuiTypography-root {
+    color: #015c92;
+}
+
+/* jode color */
+#light h2.MuiTypography-root {
+    color: #102b5a;
+}
+
+/* jode link */
+#light .MuiButton-root a {
+    color: #102b5a;
+    text-decoration: none;
+}
+
+#light .MuiButton-root a:hover {
+    color: #102b5a;
+    text-decoration: none;
+}
+
+/* checkbox */
+#light .MuiButtonBase-root.MuiCheckbox-root {
+    background-color: white;
+    border-radius: 0;
+}
+
+#light .MuiButtonBase-root.MuiCheckbox-root :hover{
+    background-color: #2B3E52;
+    border-radius: 0;
+}
+
+#light .MuiSvgIcon-root {
+    color: #3598db;
+    display: flex;
+}
+
+/*Card.MuiCardMedia-root {*/
+/*    margin-top: 50px;*/
+/*    margin-bottom: 50px;*/
+/*    height: auto;*/
+/*    width: 400px;*/
+/*    padding-top: 56.25%;*/
 /*}*/
