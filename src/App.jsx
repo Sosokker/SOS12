@@ -200,7 +200,7 @@ export default function App() {
                                                 <Button size="small"><a
                                                     href={card.link}>View</a></Button>
                                             </CardActions>
-                                            <Checkbox defaultChecked/>
+                                            <Checkbox />
                                         </Card>
                                     </Grid>
                                 ))}
