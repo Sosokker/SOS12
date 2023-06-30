@@ -22,7 +22,7 @@ function Contact(){
     }
 
     return <section id="contact">
-        <h2 className="contact">Contact</h2>
+        {/*<h2 className="contact">Contact</h2>*/}
         <div className="contactContainer">
             <div className="col-lg-6">
                 <div className="contact-wrap">
@@ -33,7 +33,7 @@ function Contact(){
                                 <div className="form-group">
                                     <h4 className="mail">Send PP any message</h4>
                                     <textarea name="message" className="form-control" id="message" cols="30" rows="8"
-                                              placeholder="Message"></textarea>
+                                              placeholder=""></textarea>
                                 </div>
                             </div>
                             <div className="col-md-12">

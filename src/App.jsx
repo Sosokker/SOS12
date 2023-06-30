@@ -206,8 +206,8 @@ export default function App() {
                                 ))}
 
                             </Grid>
+                            <Contact />
                         </Container>
-                        <Contact />
                     </main>
                     {/* Footer */}
                     <Box sx={{p: 6}} component="footer">
