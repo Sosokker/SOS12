@@ -53,13 +53,8 @@ h6.MuiTypography-root a:hover {
     background: #5585A4;
 }
 
-#dark .headButton {
-    background: red;
-    color: #102b5a;
-}
-
 #dark .headButton:hover {
-    background: red;
+    background: #3598db;
 }
 
 /* card container bg */
@@ -112,7 +107,11 @@ h2.MuiTypography-root {
     border-radius: 0;
 }
 
-.MuiSvgIcon-root {
+#dark .jodeCheckBox {
+    margin-left: auto;
+}
+
+#dark .MuiSvgIcon-root {
     color: #7DD6F6;
     display: flex;
 }
@@ -222,15 +221,11 @@ h2.MuiTypography-root {
     border-radius: 0;
 }
 
+#light .jodeCheckBox {
+    margin-left: auto;
+}
+
 #light .MuiSvgIcon-root {
     color: #3598db;
     display: flex;
 }
-
-/*Card.MuiCardMedia-root {*/
-/*    margin-top: 50px;*/
-/*    margin-bottom: 50px;*/
-/*    height: auto;*/
-/*    width: 400px;*/
-/*    padding-top: 56.25%;*/
-/*}*/

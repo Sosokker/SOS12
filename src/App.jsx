@@ -199,8 +199,8 @@ export default function App() {
                                             <CardActions>
                                                 <Button size="small"><a
                                                     href={card.link}>View</a></Button>
+                                                <Checkbox className="jodeCheckBox"/>
                                             </CardActions>
-                                            <Checkbox />
                                         </Card>
                                     </Grid>
                                 ))}
