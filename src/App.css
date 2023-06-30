@@ -263,11 +263,13 @@ h2.MuiTypography-root {
     height: 153px;
     flex-shrink: 0;
     max-width: 450px;
-    border-radius: 30px;
+    border-radius: 10px;
     border-width: 0;
     border-color: #102b5a;
     background: linear-gradient(153deg, rgba(254, 231, 211, 0.30) 0%, rgba(254, 211, 211, 0.10) 100%);
     box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.25) inset;
+    font-size: 16px;
+    color: #102b5a;
 }
 
 
@@ -325,11 +327,13 @@ h4.mail {
     height: 153px;
     flex-shrink: 0;
     max-width: 450px;
-    border-radius: 30px;
+    border-radius: 10px;
     border-width: 0;
     border-color: #102b5a;
     background: linear-gradient(153deg, rgba(255, 255, 255, 0.30) 0%, rgba(237, 244, 255, 0.46) 100%);
-    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+    box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.25) inset;
+    font-size: 16px;
+    color: aliceblue;
 }
 
 
