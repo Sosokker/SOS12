@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { textVariant } from "../utils/motion";
 import { SectionWrapper } from "../hoc";
 import { faqs } from '../constants';
+import SocialMedia from './Socialmedia';
 
 const Faq = () => {
   const [activeIndex, setActiveIndex] = useState(null);
@@ -162,6 +163,11 @@ const Faq = () => {
             )}
           </div>
         ))}
+      </div>
+      <hr className="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700"></hr>
+      <div className="mt-8">
+      <h2 className={`${styles.sectionSubTextCenter}`}>SOS12 Social Media</h2>
+        <SocialMedia />
       </div>
 </div>
   );

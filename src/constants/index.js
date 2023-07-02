@@ -3,6 +3,9 @@ import {
   contacts_pic,
   faq_pic,
   problems,
+  github, 
+  instagram_icon, 
+  discord_icon,
 } from "../assets";
 
 export const navLinks = [
@@ -63,5 +66,25 @@ const faqs = [
   }
 ];
 
+const socialMediaData = [
+  {
+    title: 'Instagram',
+    icon: instagram_icon,
+    url: 'https://www.instagram.com/sos_camp12/',
+    color: 'linear-gradient(to bottom right, #FF0080, #7928CA)',
+  },
+  {
+    title: 'Discord',
+    icon: discord_icon,
+    url: 'https://discord.gg/wPAFD6qh',
+    color: 'linear-gradient(to bottom right, #7289DA, #5865F2)',
+  },
+  {
+    title: 'Github',
+    icon: github,
+    url: 'https://github.com/Rick-Lang/rickroll-lang',
+    color: 'linear-gradient(to bottom right, #24292E, #444D56)',
+  },
+];
 
-export { menu, faqs };
+export { menu, faqs, socialMediaData };
