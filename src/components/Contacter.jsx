@@ -4,9 +4,9 @@ import emailjs from '@emailjs/browser';
 
 function Contact(){
     const form = useRef();
-    const serviceKey = process.env.SERVICE_KEY;
-    const template = process.env.TEMPLATE;
-    const token = process.env.TOKEN;
+    const serviceKey = import.meta.env.SERVICE_KEY;
+    const template = import.meta.env.TEMPLATE;
+    const token = import.meta.env.TOKEN;
 
     function sendEmail(e) {
         e.preventDefault();
