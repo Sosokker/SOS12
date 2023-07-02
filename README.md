@@ -1,20 +1,26 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+## Prerequisites
 
-## Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
- 
-In this course, you'll learn the following:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-You'll also learn how to:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
-- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+[Node.js](https://nodejs.org) and [Yarn](https://yarnpkg.com) installed on your machine.
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+```
+npm install --global yarn
+```
+
+## Installation and Initialization
+
+```
+git clone https://github.com/Sosokker/SOS12
+cd .\SOS12\
+yarn
+```
+Wait a few minutes (Wait for yarn to install all the packaged)
+
+- to Start the local server
+```
+yarn dev
+```
+
+## Credits
+- [Some Icons](https://www.flaticon.com/)
+- [Base code #1](https://github.com/mui/material-ui/tree/v5.13.6/docs/data/material/getting-started/templates/album)
+- [Base code #2](https://github.com/adrianhajdin/project_3D_developer_portfolio)
