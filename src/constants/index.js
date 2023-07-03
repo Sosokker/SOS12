@@ -80,11 +80,6 @@ const faqs = [
   },
   {
     section: 'Programming',
-    question: 'What programming concepts will be taught during the camp?',
-    answer: 'The programming concepts that will be taught during the camp are variables, data types, operators, conditional statements, loops, and functions.'
-  },
-  {
-    section: 'Programming',
     question: 'Will the camp cover both theoretical and practical aspects of programming?',
     answer: 'Yes, the camp will cover both theoretical and practical aspects of programming. The camp will start with a lecture and then you will be given exercises to practice what you have learned.'
   },
