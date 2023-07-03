@@ -6,7 +6,7 @@ import CanvasLoader from "./Loader";
 import Faq from './Faq';
 import Problems from './Problems';
 import Preproblems from './Preproblems';
-import SocialMedia from './Socialmedia';
+import SocialMedia from './SocialMedia';
 
 export {
     Navbar,
