@@ -101,7 +101,7 @@ const Problems = () => {
 
     return (
         <div className="Problems">
-        {/* <Preproblems />     */}
+         <Preproblems />
         <ThemeContext.Provider value={{theme, toggleTheme}}>
 
                 <ThemeProvider theme={defaultTheme}>
@@ -155,21 +155,9 @@ const Problems = () => {
 
                             </Grid>
                             </div>
-                            <StarsCanvas />
-                            {/* <Contact /> */}
+                            {/*<StarsCanvas />*/}
                         </Container>
                     </main>
-                    {/* Footer */}
-                    {/* <Box sx={{p: 6}} component="footer">
-                        <Typography variant="h6" align="center" gutterBottom>
-                            Footer
-                        </Typography>
-                        <Typography variant="subtitle1" align="center" component="p">
-                            Something here to give the footer a purpose!
-                        </Typography>
-                        <Copyright/>
-                    </Box> */}
-                    {/* End footer */}
                 </ThemeProvider> */
 
          </ThemeContext.Provider>

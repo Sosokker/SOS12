@@ -19,11 +19,7 @@ const App = () => {
         <Route path="/faq" element={<Faq />} />
       </Routes>
         </div>
-        <StarsCanvas />
-        <div className='relative z-0'>
-          {/* <Contact /> */}
-          {/* <StarsCanvas /> */}
-        </div>
+        {/*<StarsCanvas />*/}
       </div>
     </BrowserRouter>
   );
