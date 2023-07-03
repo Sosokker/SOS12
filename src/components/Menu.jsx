@@ -63,6 +63,9 @@ const Menu = () => {
       ))}
       </div>
       <StarsCanvas />
+      <div class="invisible">blankblankblankblankblankblankblankblankblankblankblank
+      blankblankblankblankblankblankblankblankblankblankblankblankblankblankblankblank
+      blankblankblankblankblankblankblankblankblankblankblankblankblankblankblank</div>
     </>
   );
 };
