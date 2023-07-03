@@ -5,7 +5,6 @@ import SocialMedia from "./SocialMedia.jsx";
 import {styles} from "../styles.js";
 import { StarsCanvas } from "./canvas";
 
-
 const Contacts = () => {
     return (
         <div>

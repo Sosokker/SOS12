@@ -1,7 +1,6 @@
 import { StarsCanvas, EarthCanvas } from './canvas';
 import Navbar from "./Navbar";
 import Menu from "./Menu";
-import Guide from "./Guide";
 import Contacts from "./Contacts";
 import CanvasLoader from "./Loader";
 import Faq from './Faq';
@@ -12,7 +11,6 @@ import SocialMedia from './Socialmedia';
 export {
   Navbar,
   Menu,
-  Guide,
   Contacts,
   CanvasLoader,
   StarsCanvas,

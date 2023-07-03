@@ -1,6 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
 import { Routes, Route } from 'react-router-dom';
-import { Menu, Guide, Navbar, Contacts, StarsCanvas, Problems, Faq } from "./components";
+import { Menu, Navbar, Contacts, StarsCanvas, Problems, Faq } from "./components";
 import "./index.css"
 import "./components/Problems.css"
 
@@ -13,13 +13,11 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Menu />} />
         <Route path="/problems" element={<Problems />} />
-        <Route path="/guide" element={<Guide />} />
         <Route path="/contacts" element={<Contacts />} />
         <Route path="/contact" element={<Contacts />} />
         <Route path="/faq" element={<Faq />} />
       </Routes>
         </div>
-        {/*<StarsCanvas />*/}
       </div>
     </BrowserRouter>
   );
