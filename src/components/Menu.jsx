@@ -41,7 +41,6 @@ const Menu = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubTextCenter}>สวัสดีฮ๊าฟ ฟู่วววว~~</p>
         <h2 className={styles.sectionCenterText}>SOS CAMP 12th</h2>
       </motion.div>
 
@@ -49,13 +48,7 @@ const Menu = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] mx-auto text-center'
       >
-        Hello, Welcome, Have Room, Have Condo
-        Have K-Y, Good Take Care, Do Everything 
-        Eat Chicken, Eat Duck
-        Drink Cola, Drink fanta 
-        Drink aLong the Way, Good Job, Programmer Job
-        Steve Job, Job Job, Python Job, Dangerous Job
-        Look into my eyes, Thank you xoxo
+       Welcome to the 12th SOS camp, a preparation camp for SKE21 students. We hope that students will definitely gain knowledge and enjoyment.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

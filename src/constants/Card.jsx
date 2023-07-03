@@ -4,133 +4,133 @@ const cards = [
         'describe': 'Mai tum leaw',
         'link': 'https://elabsheet.org/elab/taskpads/show/jr070sqaqp/',
         'img': './images/syntax.jpeg',
-        'id':1
+        'id': 1
     },
     {
         'title': 'Variables',
         'describe': 'Mai tum leaw',
         'link': 'https://elabsheet.org/elab/taskpads/change/jr070sqaqp/yqxiczozva/',
         'img': './images/syntax.jpeg',
-        'id':2
+        'id': 2
     },
     {
         'title': 'Data Type 01',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':3
+        'id': 3
     },
     {
         'title': 'Data Type 02',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':4
+        'id': 4
     },
     {
         'title': 'Data Type 03',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':5
+        'id': 5
     },
     {
         'title': 'Numbers, Casting, String',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':6
+        'id': 6
     },
     {
         'title': 'Strings',
         'describe': 'Mai tum leaw',
         'link': 'https://elabsheet.org/elab/taskpads/change/4k422fwoou/v49ajp3qgh/',
         'img': './images/syntax.jpeg',
-        'id':7
+        'id': 7
     },
     {
         'title': 'Boolean 01',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':8
+        'id': 8
     },
     {
         'title': 'Boolean 02',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':9
+        'id': 9
     },
     {
         'title': 'Operators 01',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':10
+        'id': 10
     },
     {
         'title': 'Operators 02',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':11
+        'id': 11
     },
     {
         'title': 'Lists',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':12
+        'id': 12
     },
     {
         'title': 'Tuples',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':13
+        'id': 13
     },
     {
         'title': 'Sets',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':14
+        'id': 14
     },
     {
         'title': 'Dictionaries',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':15
+        'id': 15
     },
     {
         'title': 'If Else 01',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':16
+        'id': 16
     },
     {
         'title': 'If Else 02',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':17
+        'id': 17
     },
     {
         'title': 'If Else 03',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':18
+        'id': 18
     },
     {
         'title': 'While Loops',
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':19
+        'id': 19
 
     },
     {
@@ -138,7 +138,7 @@ const cards = [
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':20
+        'id': 20
 
     },
     {
@@ -146,7 +146,7 @@ const cards = [
         'describe': 'Mai tum leaw',
         'link': 'www.',
         'img': './images/syntax.jpeg',
-        'id':21
+        'id': 21
 
     }
 ]

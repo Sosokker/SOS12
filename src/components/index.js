@@ -1,4 +1,4 @@
-import { StarsCanvas, EarthCanvas } from './canvas';
+import {EarthCanvas, StarsCanvas} from './canvas';
 import Navbar from "./Navbar";
 import Menu from "./Menu";
 import Contacts from "./Contacts";
@@ -9,14 +9,14 @@ import Preproblems from './Preproblems';
 import SocialMedia from './Socialmedia';
 
 export {
-  Navbar,
-  Menu,
-  Contacts,
-  CanvasLoader,
-  StarsCanvas,
-  Faq,
-  Problems,
-  Preproblems,
-  SocialMedia,
-  EarthCanvas,
+    Navbar,
+    Menu,
+    Contacts,
+    CanvasLoader,
+    StarsCanvas,
+    Faq,
+    Problems,
+    Preproblems,
+    SocialMedia,
+    EarthCanvas,
 };
