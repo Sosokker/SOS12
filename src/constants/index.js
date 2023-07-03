@@ -1,5 +1,4 @@
 import {
-  guide,
   contacts_pic,
   faq_pic,
   problems,
@@ -12,10 +11,6 @@ export const navLinks = [
   {
     id: "problems",
     title: "Problems",
-  },
-  {
-    id: "guide",
-    title: "Guide",
   },
   {
     id: "faq",
@@ -31,10 +26,6 @@ const menu = [
   {
     title: "Problems",
     icon: problems,
-  },
-  {
-    title: "Guide",
-    icon: guide,
   },
   {
     title: "FAQ",
