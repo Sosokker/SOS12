@@ -72,7 +72,7 @@ p.MuiTypography-root {
 
 /* jode color */
 h2.MuiTypography-root {
-    color: #7DD6F6;
+    color: #fc6ac3;
 }
 
 /* jode link */
@@ -97,7 +97,7 @@ h2.MuiTypography-root {
     border-radius: 0;
 }
 
-#dark .jodeCheckBox {
+.jodeCheckBox {
     margin-left: auto;
 }
 
@@ -206,17 +206,17 @@ h2.MuiTypography-root {
     border-radius: 0;
 }
 
-#light .MuiButtonBase-root.MuiCheckbox-root :hover {
+.MuiButtonBase-root.MuiCheckbox-root :hover {
     background-color: #2B3E52;
     border-radius: 0;
 }
 
-#light .jodeCheckBox {
+.jodeCheckBox  {
     margin-left: auto;
 }
 
-#light .MuiSvgIcon-root {
-    color: #3598db;
+.MuiSvgIcon-root {
+    color: #ee4dd9;
     display: flex;
 }
 
@@ -350,5 +350,9 @@ h4.mail {
     background: linear-gradient(159deg, rgba(145, 183, 227, 0.59) 0%, #D3F6FE 100%);
     box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.25);
     cursor: pointer;
+}
+
+.border-gray-500 {
+    --tw-border-opacity: 0;
 }
 
