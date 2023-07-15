@@ -99,7 +99,7 @@ const socialMediaData = [
     {
         title: 'Discord',
         icon: discord_icon,
-        url: 'https://discord.gg/wPAFD6qh',
+        url: 'https://discord.gg/fz5A6phyc2',
         color: 'linear-gradient(to bottom right, #7289DA, #5865F2)',
     },
     {
