@@ -53,7 +53,7 @@ h6.MuiTypography-root a:hover {
 
 /* card box bg */
 .MuiPaper-root.MuiCard-root {
-    background: #2B3E52;
+    background-color: rgb(21 16 48);
 }
 
 /* footer */
@@ -88,7 +88,7 @@ h2.MuiTypography-root {
 
 /* checkbox */
 .MuiButtonBase-root.MuiCheckbox-root {
-    background-color: #2B3E52;
+    background-color: rgb(21 16 48);
     border-radius: 0;
 }
 
@@ -352,7 +352,19 @@ h4.mail {
     cursor: pointer;
 }
 
+/* --------------------------------------------------------- */
+
 .border-gray-500 {
     --tw-border-opacity: 0;
+}
+
+.MuiContainer-root {
+    background-color: #050816;
+}
+
+.MuiPaper-root.MuiCard-root {
+    border-radius: 10px;
+    border-width: thin;
+    /*border-color: #fc6ac3;*/
 }
 
