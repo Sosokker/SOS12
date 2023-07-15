@@ -14,6 +14,7 @@ import cards from '../constants/Card';
 import myimage from '../../public/images/syntax.jpeg';
 import { SectionWrapper } from '../hoc';
 import Cookies from 'js-cookie';
+import Preproblems from "./Preproblems.jsx";
 
 export const ThemeContext = createContext(null);
 
@@ -86,6 +87,7 @@ const Problems = () => {
           <CssBaseline />
           <main>
             <Container sx={{ py: 8 }} maxWidth="fit-content">
+                <Preproblems />
               <div className="flex mt-4 border border-gray-500 p-4">
                 <Grid container spacing={4}>
                   {cards.map((card) => (
