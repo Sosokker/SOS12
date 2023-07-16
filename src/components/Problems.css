@@ -424,3 +424,30 @@ div.MuiContainer-root {
 #sos-head {
     margin-top: 50px;
 }
+
+.text-blue-700 {
+    --tw-text-opacity: 1;
+    color: #fc6ac3;
+}
+
+.bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgb(21 16 48);
+    border: none;
+}
+
+.bg-white:hover {
+    --tw-bg-opacity: 1;
+    background-color: #2e2b52;
+    border: none;
+}
+
+.text-gray-900 {
+    --tw-text-opacity: 1;
+    color: white;
+}
+
+.text-gray-700 {
+    --tw-text-opacity: 1;
+    color: #ffcce5;
+}
