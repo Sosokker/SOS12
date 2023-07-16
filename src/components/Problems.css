@@ -368,17 +368,6 @@ h4.mail {
     /*border-color: #fc6ac3;*/
 }
 
-/*#about.hash-span {*/
-/*    padding-bottom: 0;*/
-/*}*/
-
-/*button {*/
-/*    border-radius: 10px;*/
-/*    border-width: thin;*/
-/*    border-color: #fc6ac3;*/
-/*    --button-bg: #fc6ac3;*/
-/*}*/
-
 button a.slide {
     text-decoration: none;
     background-color: #1f1f44;
@@ -409,5 +398,11 @@ span.underline.decoration-pink-500 {
 
 div.MuiContainer-root {
     padding-top: 0;
+}
+
+.underline.decoration-pink-500 {
+    --tw-text-opacity: 1;
+    color: #fc75c3;
+    text-decoration: none;
 }
 
