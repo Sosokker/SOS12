@@ -366,14 +366,14 @@ h4.mail {
     border-radius: 10px;
     border-width: thin;
     /*border-color: #fc6ac3;*/
+    box-shadow: 0 4px 15px 0 rgb(255, 94, 231);
 }
 
 button a.slide {
     text-decoration: none;
     background-color: #1f1f44;
     border-radius: 10px;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin: 10px 10px 10px 10px;
     padding: 10px 10px 10px 10px;
 }
 
@@ -386,6 +386,8 @@ span.underline.decoration-pink-500 {
     --tw-text-opacity: 1;
     color: #fc75c3;
     text-decoration: none;
+    margin: 10px 10px 10px 10px;
+    padding-bottom: 10px;
 }
 
 .Problems p {
@@ -404,5 +406,9 @@ div.MuiContainer-root {
     --tw-text-opacity: 1;
     color: #fc75c3;
     text-decoration: none;
+}
+
+.slide-link {
+    margin-bottom: 30px;
 }
 

@@ -27,7 +27,7 @@ const Preproblems = () => {
                 className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] mx-auto text-center'
             >
                {/*Day 1*/}
-               <button>
+               <button className="slide-link">
                    <a
                        className="slide"
                        href="https://www.canva.com/design/DAFmtzSyMEU/iDO-l19EMxqTZuB6xiX56g/view?utm_content=DAFmtzSyMEU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1"
@@ -38,7 +38,7 @@ const Preproblems = () => {
                </button>
 
                 {/*# Day 2*/}
-               <button>
+               <button className="slide-link">
                    <a
                        className="slide"
                        href=" https://www.canva.com/design/DAFnlHJWs8A/Fr7CmfQqTRXB_NkUSsop5g/view?utm_content=DAFnlHJWs8A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1"
@@ -49,7 +49,7 @@ const Preproblems = () => {
                </button>
 
                 {/*# Day 3*/}
-               <button>
+               <button className="slide-link">
                    <a
                        className="slide"
                        href="https://www.canva.com/design/DAFnjy2nh4g/aN8Wpiu8r_h4Sfr1hYEFLA/view?utm_content=DAFnjy2nh4g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1"
