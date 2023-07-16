@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { createContext, useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import Button from '@mui/material/Button';
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';
@@ -11,13 +11,10 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Checkbox from '@mui/material/Checkbox';
 import cards from '../constants/Card';
-import myimage from '../../public/images/syntax.jpeg';
 import { SectionWrapper } from '../hoc';
 import Cookies from 'js-cookie';
 import Preproblems from "./Preproblems.jsx";
 
-
-// export const ThemeContext = createContext(null);
 
 const CardItem = ({ card }) => {
   const [checked, setChecked] = useState(false);
