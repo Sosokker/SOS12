@@ -28,7 +28,7 @@ const SocialMedia = () => {
                                 boxShadow: '0px 4px 10px rgba(255, 255, 255, 0.2)',
                             }}
                         >
-                            <a href={item.url} className="block">
+                            <a href={item.url} target="_blank" className="block">
                                 <div className="flex justify-center items-center mb-4">
                                     <img src={item.icon} alt={item.title} className="w-8 h-8"
                                          style={{filter: 'drop-shadow(2px 4px 6px rgba(255, 255, 255, 0.5))'}}/>
