@@ -7,7 +7,6 @@ import contacts_pic from "./contacts.png"
 import faq_pic from "./faq.png"
 import discord_icon from './Discord.png';
 import instagram_icon from './instagram.png';
-import facebook_icon from './facebook.png';
 
 export {
   logo,
@@ -19,5 +18,4 @@ export {
   faq_pic,
   discord_icon,
   instagram_icon,
-  facebook_icon,
 };
