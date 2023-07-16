@@ -57,17 +57,17 @@ const faqs = [
         answer: 'The first semester\'s start date is 7th August. Though there will be events before that day like SKE tutorial camp'
     },
     {
-        section: 'About SOS12 Camp',
+        section: 'About SOS Camp',
         question: 'What is SOS Camp?',
         answer: 'SOS Camp is a preparation camp for freshmen to gain knowledge about the programming. It is also a camp to help you prepare for the first semester. The camp will be held on 18th-21th July.'
     },
     {
-        section: 'About SOS12 Camp',
+        section: 'About SOS Camp',
         question: 'What programming languages will be covered in the camp?',
         answer: 'This camp will cover Python.'
     },
     {
-        section: 'About SOS12 Camp',
+        section: 'About SOS Camp',
         question: 'Do I need prior programming experience to attend the camp?',
         answer: 'No, you do not need any prior programming experience to attend the camp. The camp will start from the very basics of programming.'
     },
