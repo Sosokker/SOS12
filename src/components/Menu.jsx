@@ -41,7 +41,7 @@ const Menu = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <h2 className={styles.sectionCenterText}>SOS CAMP 12th</h2>
+        <h2 id="sos-head" className={styles.sectionCenterText}>SOS CAMP 12th</h2>
       </motion.div>
 
       <motion.p
@@ -66,6 +66,8 @@ const Menu = () => {
       <div class="invisible">blankblankblankblankblankblankblankblankblankblankblank
       blankblankblankblankblankblankblankblankblankblankblankblankblankblankblankblank
       blankblankblankblankblankblankblankblankblankblankblankblankblankblankblank</div>
+
+    <div className="invisible"></div>
     </>
   );
 };
