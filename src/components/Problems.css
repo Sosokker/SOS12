@@ -403,5 +403,11 @@ span.underline.decoration-pink-500 {
     padding-bottom: 20px;
 }
 
+.MuiContainer-root section {
+    padding-top: 0;
+}
 
+div.MuiContainer-root {
+    padding-top: 0;
+}
 
