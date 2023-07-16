@@ -16,7 +16,8 @@ import { SectionWrapper } from '../hoc';
 import Cookies from 'js-cookie';
 import Preproblems from "./Preproblems.jsx";
 
-export const ThemeContext = createContext(null);
+
+// export const ThemeContext = createContext(null);
 
 const CardItem = ({ card }) => {
   const [checked, setChecked] = useState(false);
@@ -50,7 +51,7 @@ const CardItem = ({ card }) => {
             pt: '56.25%',
             height: 0,
           }}
-          image={myimage}
+          image={card.img}
         />
         <CardContent sx={{ flexGrow: 1 }}>
           <Typography
@@ -91,7 +92,7 @@ const Problems = () => {
               <div className="flex mt-4 border border-gray-500 p-4">
                 <Grid container spacing={4}>
                   {cards.map((card) => (
-                    <CardItem card={card} key={card.id} />
+                    <CardItem card={card} key={card.id}/>
                   ))}
                 </Grid>
               </div>
