@@ -1,154 +1,75 @@
 const cards = [
     {
-        'title': 'Syntax',
-        'describe': 'Mai tum leaw',
-        'link': 'https://elabsheet.org/elab/taskpads/show/jr070sqaqp/',
-        'img': './images/syntax.jpeg',
+        'title': 'Data type',
+        'describe': 'Day 1',
+        'link': 'https://elabsheet.org/elab/taskpads/show/iln6rkv0ch/',
+        'img': '../../public/images/gif/_1.jpg',
         'id': 1
     },
     {
-        'title': 'Variables',
-        'describe': 'Mai tum leaw',
-        'link': 'https://elabsheet.org/elab/taskpads/change/jr070sqaqp/yqxiczozva/',
-        'img': './images/syntax.jpeg',
+        'title': 'Boolean',
+        'describe': 'Day 1',
+        'link': 'https://elabsheet.org/elab/taskpads/show/558n9h46d9/',
+        'img': '../../public/images/gif/_2.jpg',
         'id': 2
     },
     {
-        'title': 'Data Type 01',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
+        'title': 'Operator 01 (Area)',
+        'describe': 'Day 1',
+        'link': 'https://elabsheet.org/elab/taskpads/show/l2uoxc77z9/',
+        'img': '../../public/images/gif/_3.jpg',
         'id': 3
     },
     {
-        'title': 'Data Type 02',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
+        'title': 'Operator 02 (Radius)',
+        'describe': 'Day 1',
+        'link': 'https://elabsheet.org/elab/taskpads/show/dzm24rq6hp/',
+        'img': '../../public/images/gif/_4.jpg',
         'id': 4
     },
     {
-        'title': 'Data Type 03',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
+        'title': 'Variables',
+        'describe': 'Day 1',
+        'link': 'https://elabsheet.org/elab/taskpads/show/jr070sqaqp/',
+        'img': '../../public/images/gif/_5.jpg',
         'id': 5
     },
     {
         'title': 'Numbers, Casting, String',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
+        'describe': 'Day 1',
+        'link': 'https://elabsheet.org/elab/taskpads/show/qkea3sxyo0/',
+        'img': '../../public/images/gif/_6.jpg',
         'id': 6
     },
     {
         'title': 'Strings',
-        'describe': 'Mai tum leaw',
-        'link': 'https://elabsheet.org/elab/taskpads/change/4k422fwoou/v49ajp3qgh/',
-        'img': './images/syntax.jpeg',
+        'describe': 'Day 1',
+        'link': 'https://elabsheet.org/elab/taskpads/show/npxunwm0n5/',
+        'img': '../../public/images/gif/_7.jpg',
         'id': 7
     },
     {
-        'title': 'Boolean 01',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
+        'title': 'Strings slicing',
+        'describe': 'Day 1',
+        'link': 'https://elabsheet.org/elab/taskpads/show/h62ity5o8f/',
+        'img': '../../public/images/gif/_8.jpg',
         'id': 8
     },
     {
-        'title': 'Boolean 02',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
+        'title': 'Computation',
+        'describe': 'Day 1',
+        'link': 'https://elabsheet.org/elab/taskpads/show/0537fkytq9/',
+        'img': '../../public/images/gif/_9.jpg',
         'id': 9
     },
     {
-        'title': 'Operators 01',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
+        'title': 'Comment',
+        'describe': 'Day 1',
+        'link': 'https://elabsheet.org/elab/taskpads/show/xj450gjw5y/',
+        'img': '../../public/images/gif/_10.jpg',
         'id': 10
-    },
-    {
-        'title': 'Operators 02',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
-        'id': 11
-    },
-    {
-        'title': 'Lists',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
-        'id': 12
-    },
-    {
-        'title': 'Tuples',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
-        'id': 13
-    },
-    {
-        'title': 'Sets',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
-        'id': 14
-    },
-    {
-        'title': 'Dictionaries',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
-        'id': 15
-    },
-    {
-        'title': 'If Else 01',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
-        'id': 16
-    },
-    {
-        'title': 'If Else 02',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
-        'id': 17
-    },
-    {
-        'title': 'If Else 03',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
-        'id': 18
-    },
-    {
-        'title': 'While Loops',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
-        'id': 19
-
-    },
-    {
-        'title': 'For Loops',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
-        'id': 20
-
-    },
-    {
-        'title': 'Functions',
-        'describe': 'Mai tum leaw',
-        'link': 'www.',
-        'img': './images/syntax.jpeg',
-        'id': 21
-
     }
 ]
+
 
 export default cards;
