@@ -412,3 +412,15 @@ div.MuiContainer-root {
     margin-bottom: 30px;
 }
 
+/*.bg-\[\#050816\] {*/
+/*    --tw-bg-opacity: 1;*/
+/*    background-color: #36ff9a;*/
+/*}*/
+
+.invisible {
+    margin-bottom: 30px;
+}
+
+#sos-head {
+    margin-top: 50px;
+}
