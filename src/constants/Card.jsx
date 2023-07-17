@@ -68,7 +68,17 @@ const cards = [
         'link': 'https://elabsheet.org/elab/taskpads/show/xj450gjw5y/',
         'img': '/images/gif/_10.jpg',
         'id': 10
-    }
+    },
+    {
+        'title': 'Diff Checker',
+        'describe': 'Day 1 (Extra)',
+        'link': 'https://elabsheet.org/elab/taskpads/show/e19mbc23wl/',
+        'img': '/images/gif/_11.jpg',
+        'id': 11
+    },
+    /* Day 2 (Ror kon na nong) */
+    /* Day 3 (Ror kon na nong) */
+
 ]
 
 
