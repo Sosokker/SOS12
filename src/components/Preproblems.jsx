@@ -56,6 +56,17 @@ const Preproblems = () => {
                        target="_blank"
                    >
                      <span className="underline decoration-pink-500">Day 3 Slides</span>
+               </a>
+               </button>
+
+                {/*# Materials Hub*/}
+               <button className="slide-link">
+                   <a
+                       className="slide"
+                       href="https://docs.google.com/document/d/1IJ3xsBhsNVqLBLoXJ_oFI8qzH2XuhVGwQ5nE7fqS7o8/edit?usp=sharing"
+                       target="_blank"
+                   >
+                     <span className="underline decoration-pink-500">Materials Hub</span>
                </a></button>
 
             </motion.p>
