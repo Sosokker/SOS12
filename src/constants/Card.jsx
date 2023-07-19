@@ -76,7 +76,70 @@ const cards = [
         'img': '/images/gif/_11.jpg',
         'id': 11
     },
-    /* Day 2 (Ror kon na nong) */
+    /* Day 2 */
+    {
+        'title': 'List index slicing',
+        'describe': 'Day 2',
+        'link': 'https://elabsheet.org/elab/taskpads/show/up6gn1917z/',
+        'img': '/images/gif/_12.jpg',
+        'id': 12
+    },
+    {
+        'title': 'List append',
+        'describe': 'Day 2',
+        'link': 'https://elabsheet.org/elab/taskpads/show/fx04p4brl4/',
+        'img': '/images/gif/_13.jpg',
+        'id': 13
+    },
+    {
+        'title': 'List pop',
+        'describe': 'Day 2',
+        'link': 'https://elabsheet.org/elab/taskpads/show/oqbty4k7wn/',
+        'img': '/images/gif/_14.jpg',
+        'id': 14
+    },
+    {
+        'title': 'Dict add, pop, del, access value',
+        'describe': 'Day 2',
+        'link': 'https://elabsheet.org/elab/taskpads/show/4uhnohhcqv/',
+        'img': '/images/gif/_15.jpg',
+        'id': 15
+    },
+    {
+        'title': 'Lists',
+        'describe': 'Day 2',
+        'link': 'https://elabsheet.org/elab/taskpads/show/gvz93k7487/',
+        'img': '/images/gif/_16.jpg',
+        'id': 16
+    },
+    {
+        'title': 'Sets',
+        'describe': 'Day 2',
+        'link': 'https://elabsheet.org/elab/taskpads/show/m4liaiqdl1/',
+        'img': '/images/gif/_17.jpg',
+        'id': 17
+    },
+    {
+        'title': 'Dictionaries',
+        'describe': 'Day 2',
+        'link': 'https://elabsheet.org/elab/taskpads/show/pgh2089j1g/',
+        'img': '/images/gif/_18.jpg',
+        'id': 18
+    },
+    {
+        'title': 'Tuples',
+        'describe': 'Day 2',
+        'link': 'https://elabsheet.org/elab/taskpads/show/vawr400eej/',
+        'img': '/images/gif/_19.jpg',
+        'id': 19
+    },
+    {
+        'title': 'List Comprehension',
+        'describe': 'Day 2',
+        'link': 'https://elabsheet.org/elab/taskpads/show/xp06mu9egz/',
+        'img': '/images/gif/_20.jpg',
+        'id': 20
+    },
     /* Day 3 (Ror kon na nong) */
 
 ]
