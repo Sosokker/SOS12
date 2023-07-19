@@ -23,7 +23,7 @@ const cards = [
     {
         'title': 'Operator 02 (Radius)',
         'describe': 'Day 1',
-        'link': 'https://elabsheet.org/elab/taskpads/show/dzm24rq6hp/',
+        'link': 'https://elabsheet.org/elab/taskpads/show/9qp43jhml3/',
         'img': '/images/gif/_4.jpg',
         'id': 4
     },
