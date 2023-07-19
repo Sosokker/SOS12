@@ -141,7 +141,69 @@ const cards = [
         'id': 20
     },
     /* Day 3 (Ror kon na nong) */
-
+    {
+        'title': 'If Else 01',
+        'describe': 'Day 3',
+        'link': 'https://elabsheet.org/elab/taskpads/show/wxo90fymez/',
+        'img': '/images/gif/_21.jpg',
+        'id': 21
+    },
+    {
+        'title': 'If Else 02',
+        'describe': 'Day 3',
+        'link': 'https://elabsheet.org/elab/taskpads/show/4k422fwoou/',
+        'img': '/images/gif/_22.jpg',
+        'id': 22
+    },
+    {
+        'title': 'If Else 03',
+        'describe': 'Day 3',
+        'link': 'https://elabsheet.org/elab/taskpads/show/sti1e6g88z/',
+        'img': '/images/gif/_23.jpg',
+        'id': 23
+    },
+    {
+        'title': 'While Loops',
+        'describe': 'Day 3',
+        'link': 'https://elabsheet.org/elab/taskpads/show/b9rmj7xm0l/',
+        'img': '/images/gif/_24.jpg',
+        'id': 24
+    },
+    {
+        'title': 'For Loops',
+        'describe': 'Day 3',
+        'link': 'https://elabsheet.org/elab/taskpads/show/fewd2mww49/',
+        'img': '/images/gif/_25.jpg',
+        'id': 25
+    },
+    {
+        'title': 'Functions',
+        'describe': 'Day 3',
+        'link': 'https://elabsheet.org/elab/taskpads/show/0nmxehyr3f/',
+        'img': '/images/gif/_26.jpg',
+        'id': 26
+    },
+    {
+        'title': '(Challenge) Tuple Comprehension',
+        'describe': 'Day 3',
+        'link': 'https://elabsheet.org/elab/taskpads/show/62xtz9xtgh/',
+        'img': '/images/gif/_27.jpg',
+        'id': 27
+    },
+    {
+        'title': '(Challenge) List to grade',
+        'describe': 'Day 3',
+        'link': 'https://elabsheet.org/elab/taskpads/show/roqvjf2s1v/',
+        'img': '/images/gif/_28.jpg',
+        'id': 28
+    },
+    {
+        'title': 'I can fix that!',
+        'describe': 'Day 3',
+        'link': 'https://elabsheet.org/elab/taskpads/show/qbuhgrhixc/',
+        'img': '/images/gif/_29.jpg',
+        'id': 29
+    }
 ]
 
 
