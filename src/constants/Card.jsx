@@ -207,14 +207,14 @@ const cards = [
     {
         'title': '(Challenge) I Hat-Love You Fibonacci',
         'describe': 'Day 3',
-        'link': 'https://elabsheet.org/elab/taskpads/change/a6vug4t3mv/4m34o54oph/',
+        'link': 'https://elabsheet.org/elab/taskpads/show/a6vug4t3mv/',
         'img': '/images/gif/_30.jpg',
         'id': 30
     },
     {
         'title': 'SKE Challenge',
         'describe': 'Day 3',
-        'link': 'https://elabsheet.org/elab/taskpads/change/ajzyhvc3lu/xz28cgf0au/',
+        'link': 'https://elabsheet.org/elab/taskpads/show/ajzyhvc3lu/',
         'img': '/images/gif/_31.jpg',
         'id': 31
     },
