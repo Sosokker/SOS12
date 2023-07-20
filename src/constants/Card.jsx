@@ -203,7 +203,28 @@ const cards = [
         'link': 'https://elabsheet.org/elab/taskpads/show/qbuhgrhixc/',
         'img': '/images/gif/_29.jpg',
         'id': 29
-    }
+    },
+    {
+        'title': 'I Hat-Love You Fibonacci',
+        'describe': 'Day 3',
+        'link': 'https://elabsheet.org/elab/taskpads/change/a6vug4t3mv/4m34o54oph/',
+        'img': '/images/gif/_30.jpg',
+        'id': 30
+    },
+    {
+        'title': 'SKE Challenge',
+        'describe': 'Day 3',
+        'link': 'https://elabsheet.org/elab/taskpads/change/ajzyhvc3lu/xz28cgf0au/',
+        'img': '/images/gif/_31.jpg',
+        'id': 31
+    },
+    {
+        'title': '🔥Impossible Challenge🔥',
+        'describe': 'Day 3',
+        'link': 'https://youtu.be/xvFZjo5PgG0',
+        'img': '/images/gif/_32.jpg',
+        'id': 32
+    },
 ]
 
 
