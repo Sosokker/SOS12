@@ -177,7 +177,7 @@ const cards = [
         'id': 25
     },
     {
-        'title': 'Functions',
+        'title': '(Challenge) Functions',
         'describe': 'Day 3',
         'link': 'https://elabsheet.org/elab/taskpads/show/0nmxehyr3f/',
         'img': '/images/gif/_26.jpg',
@@ -198,14 +198,14 @@ const cards = [
         'id': 28
     },
     {
-        'title': 'I can fix that!',
+        'title': '(Challenge) I can fix that!',
         'describe': 'Day 3',
         'link': 'https://elabsheet.org/elab/taskpads/show/qbuhgrhixc/',
         'img': '/images/gif/_29.jpg',
         'id': 29
     },
     {
-        'title': 'I Hat-Love You Fibonacci',
+        'title': '(Challenge) I Hat-Love You Fibonacci',
         'describe': 'Day 3',
         'link': 'https://elabsheet.org/elab/taskpads/change/a6vug4t3mv/4m34o54oph/',
         'img': '/images/gif/_30.jpg',
